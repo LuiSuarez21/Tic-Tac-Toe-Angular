@@ -1,4 +1,4 @@
-# MyApp
+# Tic-Tac-ToeApp
 
 This repo is my build about a Angular App about Tic-Tac-Toe to learn more about Typescript, HTML, CSS and and of course, JavaScript.
 Also, it was a good challenge to learn about Angular.
